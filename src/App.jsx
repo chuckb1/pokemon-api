@@ -5,7 +5,7 @@ import ApiCall from './components/ApiCall';
 function App() {
   return (
     <div className="App">
-      <h1>PokeAPI</h1>
+      <h1>Poke Info!</h1>
       <ApiCall/>
     </div>
   );
